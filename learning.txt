@@ -1,0 +1,5 @@
+1. Git is used for version control.
+2. GitHub is used to store and manage Git repositories online.
+3. git status shows the current state of files.
+4. git add stages files for committing.
+5. git commit saves changes to the local Git repository.
